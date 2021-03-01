@@ -1,0 +1,13 @@
+admin_pass
+admin_user
+db_password
+db_server
+db_username
+dbpasswd
+dbpassword
+dbuser
+accesskey
+accessid
+pass
+passwd
+password
